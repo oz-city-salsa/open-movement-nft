@@ -51,6 +51,7 @@ export class TokenMetadata {
     media?: string;
     media_hash?: string;
     copies?: number;
+    name?: string;
     issued_at?: string;
     expires_at?: string;
     starts_at?: string;
@@ -58,6 +59,9 @@ export class TokenMetadata {
     extra?: string;
     reference?: string;
     reference_hash?: string;
+    dance_photo_url?: string;
+    score?: number;
+    dance_video_url?: string;
 
     constructor(
         {
