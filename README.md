@@ -132,4 +132,4 @@ To initiate the transfer..
 near call $NFT_CONTRACT_ID nft_transfer '{"receiver_id": "$MAIN_ACCOUNT_2", "token_id": "token-1", "memo": "Go Team :)"}' --accountId $MAIN_ACCOUNT --depositYocto 1
 ```
 
-In this call you are depositing 1 yoctoNEAR for security and so that the user will be redirected to the NEAR wallet.
+In this call you are depositing 1 yoctoNEAR for security and so that the user will be redirected to the NEAR wallet.# open-movement-nft
