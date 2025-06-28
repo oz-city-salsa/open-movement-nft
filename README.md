@@ -133,3 +133,4 @@ near call $NFT_CONTRACT_ID nft_transfer '{"receiver_id": "$MAIN_ACCOUNT_2", "tok
 ```
 
 In this call you are depositing 1 yoctoNEAR for security and so that the user will be redirected to the NEAR wallet.# open-movement-nft
+# open-movement-nft
